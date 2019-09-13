@@ -1,0 +1,36 @@
+---
+title: "Untitled"
+output:
+  tufte::tufte_html: default
+  tufte::tufte_handout:
+    citation_package: natbib
+    latex_engine: xelatex
+  tufte::tufte_book:
+    citation_package: natbib
+    latex_engine: xelatex
+---
+
+
+    
+Column {data-width=600}
+-------------------------------------
+
+### Chart 1
+
+```{r}
+```
+   
+Column {data-width=400}
+-------------------------------------
+
+### Chart 2
+
+```{r}
+
+```   
+ 
+### Chart 3
+    
+```{r}
+
+```
