@@ -1,0 +1,18 @@
+Type: Compendium
+Package: example
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.1
+Authors@R: 
+    person(given = "First",
+           family = "Last",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: CASA0005 example
+License: What license it uses
+Depends: 
+    knitr,
+    rmarkdown,
+    webex
+Encoding: UTF-8
+LazyData: true
